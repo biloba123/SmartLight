@@ -1,0 +1,5 @@
+<resources>
+    <style name="AppCompat" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
